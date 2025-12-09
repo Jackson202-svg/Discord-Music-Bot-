@@ -38,3 +38,6 @@ Basic configuration
   ## link
   Github: [discord-js-bot
 ](https://github.com/saiteja-madha/discord-js-bot)
+
+## Discord link
+Go to My Discord Server [Click here]([https://discord.gg/](https://discord.gg/rEkbQCEH))
