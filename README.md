@@ -40,4 +40,12 @@ Basic configuration
 ](https://github.com/saiteja-madha/discord-js-bot)
 
 ## Discord link
-Go to My Discord Server [https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIOoHvtnCBHVjlAtAugEWrtxto32v-vplb7Q&s](https://discord.gg/rEkbQCEH)
+Go to My Discord Server 
+<h1 align="center">
+  <br>
+  <a href="https://discord.gg/rEkbQCEH"><img src="[https://imgur.com/pY1WUFX.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIOoHvtnCBHVjlAtAugEWrtxto32v-vplb7Q&s)" alt="Red - Discord Bot"></a>
+  <br>
+  Red Discord Bot
+  <br>
+</h1>
+
