@@ -36,5 +36,5 @@ Basic configuration
 - 💻 Replit: [Fork Here](https://replit.com/@saiteja-madha/discord-js-bot)
 
   ## link
-  [discord-js-bot
+  Github: [discord-js-bot
 ](https://github.com/saiteja-madha/discord-js-bot)
