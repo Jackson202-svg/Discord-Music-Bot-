@@ -25,4 +25,16 @@ Basic configuration
 
 - `app/enableEmojis` will change the player buttons with emojis if set to true. `false` will replace them with basic English words
 
-- `opt/loopMessage`, if the message that a music is played should be sent when it is looped
+- `opt/loopMessage`, if the message that music is played should be sent when it is looped
+
+  ## 🔗 Resource Links
+
+- 🌐 Bot Website: [Visit Here](https://strangebot.fun)
+- 🤖 Demo Bot: [Invite Here](https://discord.com/oauth2/authorize?client_id=1013236808353599488&permissions=397602323830&scope=bot%20applications.commands)
+- 🤝 Support Server: [Join Here](https://discord.gg/2gPy75zgbW)
+- 🐳 Docker Image: [Hub](https://hub.docker.com/r/saitejamadha/discord-js-bot)
+- 💻 Replit: [Fork Here](https://replit.com/@saiteja-madha/discord-js-bot)
+
+  ## link
+  [discord-js-bot
+](https://github.com/saiteja-madha/discord-js-bot)
