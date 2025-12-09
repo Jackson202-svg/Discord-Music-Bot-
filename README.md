@@ -40,4 +40,4 @@ Basic configuration
 ](https://github.com/saiteja-madha/discord-js-bot)
 
 ## Discord link
-Go to My Discord Server [Click here]([https://discord.gg/](https://discord.gg/rEkbQCEH))
+Go to My Discord Server [https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIOoHvtnCBHVjlAtAugEWrtxto32v-vplb7Q&s][Click here](https://discord.gg/](https://discord.gg/rEkbQCEH)
